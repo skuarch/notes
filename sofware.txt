@@ -1,0 +1,20 @@
+scrcpy                show android screen in computer        other
+owasp zap             crack software                         security
+tamper chrome         extention chrome                       net
+nvm                   node version                           development
+flutter               framework                              development
+jupiter               python scientific                      development
+spider                python ide                             development
+android studio        ide                                    development
+robomongo             ide no sql                             development
+ionic                 framework                              development
+netcat                swiss army knife                       security
+redshift              dark screen                            other
+yakuake               terminal                               other
+powertop              performance                            other
+docker                virtualization                         development
+postman               rest client                            development
+sublime text          text editor                            development
+dbeaver               sql tool                               development
+
+
