@@ -18,6 +18,8 @@ sublime text              text editor                            development
 dbeaver                   sql tool                               development
 db brower for sqlite      sql tool client                        development
 sequel pro                sql tool for mac                       development
+darktable                 image editor                           images
+
 
 
 
