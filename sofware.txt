@@ -4,10 +4,9 @@ tamper chrome             extention chrome                       net
 nvm                       node version                           development
 flutter                   framework                              development
 jupiter                   python scientific                      development
-spider                    python ide                             development
+spyder                    python ide                             development
 android studio            ide                                    development
 robomongo                 ide no sql                             development
-ionic                     framework                              development
 netcat                    swiss army knife                       security
 redshift                  dark screen                            other
 yakuake                   terminal                               other
