@@ -19,6 +19,6 @@ db brower for sqlite      sql tool client                        development
 sequel pro                sql tool for mac                       development
 darktable                 image editor                           images
 skanlite                  scan software                          other
-
+vysor                     show android screen in computer        other
 
 
