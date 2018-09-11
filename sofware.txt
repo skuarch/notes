@@ -25,6 +25,5 @@ swish max                 software for animation                 other
 sublime                   text editor                            development
 pgadmin                   postgres client                        development
 ninja ide                 ide for python                         development
-redshift                  color temperature screen               other
 
 
