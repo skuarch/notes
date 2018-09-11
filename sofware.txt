@@ -21,4 +21,8 @@ darktable                 image editor                           images
 skanlite                  scan software                          other
 vysor                     show android screen in computer        other
 r studio                  ide for r                              development
+swish max                 software for animation                 other
+sublime                   text editor                            development
+pgadmin                   postgres client                        development
+ninja ide                 ide for python                         development
 
