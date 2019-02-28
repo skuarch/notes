@@ -29,5 +29,5 @@ wick                      http://wickeditor.com/wick-editor      other
 thonny                    ide for python                         development
 TabNine                   autocomplete                           development
 packer                    image builder                          devops
-
+ansible                   installer automation                   devops
 
