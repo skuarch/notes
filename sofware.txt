@@ -28,4 +28,6 @@ ninja ide                 ide for python                         development
 wick                      http://wickeditor.com/wick-editor      other
 thonny                    ide for python                         development
 TabNine                   autocomplete                           development
+packer                    image builder                          devops
+
 
