@@ -30,4 +30,4 @@ thonny                    ide for python                         development
 TabNine                   autocomplete                           development
 packer                    image builder                          devops
 ansible                   installer automation                   devops
-
+coder-server              vscode in the cloud                    development
