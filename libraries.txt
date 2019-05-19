@@ -1,1 +1,3 @@
-errorprone          like pmd of checkstyle          java
+errorprone          like pmd of checkstyle                  java
+plato.js            wrapper for jslint and jscomplex        javascript
+jsconplex           static analysis                         javascript
