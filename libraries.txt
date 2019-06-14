@@ -3,3 +3,4 @@ plato.js            wrapper for jslint and jscomplex        javascript
 jscomplex           static analysis                         javascript
 flow                static analysis                         javascript
 slimerjs            like selenium                           javascript
+opentracing         request tracker                         java               https://opentracing.io/
