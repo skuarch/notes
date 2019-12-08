@@ -6,4 +6,5 @@ slimerjs                    like selenium                           javascript
 opentracing                 request tracker                         java            https://opentracing.io/  
                                                                                     https://www.youtube.com/watch?v=RvCcWltMY7U
 Hypersistence Optimizer     hibernate analyzer                      java
+swifter                     performance for lambdas                 python          https://github.com/jmcarpenter2/swifter
                                                                             
