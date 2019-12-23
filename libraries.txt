@@ -9,3 +9,4 @@ Hypersistence Optimizer     hibernate analyzer                      java
 swifter                     performance for lambdas                 python          https://github.com/jmcarpenter2/swifter
 spotbugs                    alternative to findbugs                 java            https://github.com/spotbugs/spotbugs
 dask                        scalable analytics                      python          https://dask.org/
+apache deltaspike           CDI extentions                          java            https://deltaspike.apache.org
