@@ -10,3 +10,4 @@ swifter                     performance for lambdas                 python      
 spotbugs                    alternative to findbugs                 java            https://github.com/spotbugs/spotbugs
 dask                        scalable analytics                      python          https://dask.org/
 apache deltaspike           CDI extentions                          java            https://deltaspike.apache.org
+folium                      visualize data                          python          https://python-visualization.github.io/folium/
