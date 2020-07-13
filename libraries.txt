@@ -11,3 +11,4 @@ spotbugs                    alternative to findbugs                 java        
 dask                        scalable analytics                      python          https://dask.org/
 apache deltaspike           CDI extentions                          java            https://deltaspike.apache.org
 folium                      visualize data                          python          https://python-visualization.github.io/folium/
+selma                       mapper                                  java            http://www.selma-java.org/
