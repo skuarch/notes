@@ -7,3 +7,5 @@ apollo             javascript           graphql over rest
 micronaut          javascript           microservices
 quarkus            java                 hot reload
 nuxt.js            javascript           framework for vue.js
+helidon            java                 framework
+
