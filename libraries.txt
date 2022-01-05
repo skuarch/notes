@@ -15,3 +15,5 @@ selma                       mapper                                  java        
 jreleaser                   release library                         java            https://jreleaser.org/
 pit                         mutation testing                        java            https://pitest.org/
 microstream                 in memory data processing               java            https://microstream.one/
+map struct                  mapper                                  java            https://mapstruct.org/
+selma                       mapper                                  java            http://www.selma-java.org/
