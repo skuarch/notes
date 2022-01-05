@@ -12,3 +12,6 @@ dask                        scalable analytics                      python      
 apache deltaspike           CDI extentions                          java            https://deltaspike.apache.org
 folium                      visualize data                          python          https://python-visualization.github.io/folium/
 selma                       mapper                                  java            http://www.selma-java.org/
+jreleaser                   release library                         java            https://jreleaser.org/
+pit                         mutation testing                        java            https://pitest.org/
+microstream                 in memory data processing               java            https://microstream.one/
