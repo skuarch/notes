@@ -32,3 +32,4 @@ packer                    image builder                          devops
 ansible                   installer automation                   devops
 coder-server              vscode in the cloud                    development
 gitkraken                 git client                             development
+kube hunter               testing tool for kubernates            development
