@@ -33,3 +33,4 @@ ansible                   installer automation                   devops
 coder-server              vscode in the cloud                    development
 gitkraken                 git client                             development
 kube hunter               testing tool for kubernates            development
+github1s                  see github repo code like vs code      https://github1s.com/
